@@ -1,2 +1,16 @@
-pnr,name,baggage,bg_code,checkin,seat,boarding
-ABCD,Ruchir ,,,,,
+S.no,pnr,name,gender,age,from,to,present,baggage,bg_code,checkin,seat,gate_no,boarding
+1,TINACB,Rick Sanchez,Male,70,BLR,PAT,,,,,,,
+2,XXSOS7,Anand Ahuja,Male,35,BLR,BOM,,,,,,,
+3,BJB9ZB,Pranav Pathak,Male,20,BLR,VNS,,,,,,,
+4,6U5I6K,Eric Cartman,Male,9,BLR,PAT,,,,,,,
+5,EPB7Y7,Jyoti Malhotra,Female,20,BLR,BOM,,,,,,,
+6,T2E8A2,Rakesh Jhunjhunwala,Male,65,BLR,BOM,,,,,,,
+7,SQ8JDD,Harshad Mehta,Male,44,BLR,BOM,,,,,,,
+8,O7BQZ8,Narendra Modi,Male,73,BLR,DEL,,,,,,,
+9,P33CH5,Tejaswi Yadav,Male,26,BLR,PAT,,,,,,,
+10,N1ZWMV,Sara Ali Khan,Female,24,BLR,CCU,,,,,,,
+11,NDQDL4,Ramanand Mishra,Male,34,BLR,LKO,,,,,,,
+12,8YDAEN,Rekha Khandelwal,Female,24,BLR,CCU,,,,,,,
+13,RNNRQX,Jetha Lal,Male,46,BLR,BOM,,,,,,,
+14,XVIUSC,Richa Yadav,Female,32,BLR,DEL,,,,,,,
+15,EKQ96B,Stan Marsh,Male,9,BLR,MAA,,,,,,,
